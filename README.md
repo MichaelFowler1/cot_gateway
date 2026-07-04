@@ -9,6 +9,12 @@ track icons that move and go stale automatically.
 v1 ships a fake track generator so the full pipeline can be exercised end-to-end
 before a real sensor is integrated.
 
+![cot_gateway: tracks to CoT XML to TAK](docs/hero.png)
+
+*Real pipeline output: fakegen's track walk colored by `affiliation.py`'s policy
+(left) and the literal CoT event `cot.py` serializes for the hostile drone track
+(right). Regenerate with `python make_hero.py`.*
+
 ---
 
 ## Architecture
