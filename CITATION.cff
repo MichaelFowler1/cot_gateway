@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "cot_gateway"
+abstract: "Sensor-to-COP gateway: publishes CV object-detection tracks as Cursor-on-Target events to a TAK server"
+authors:
+  - family-names: "Fowler"
+    given-names: "Michael"
+    alias: "MichaelFowler1"
+repository-code: "https://github.com/MichaelFowler1/cot_gateway"
+url: "https://github.com/MichaelFowler1/cot_gateway"
+license: "Apache-2.0"
+date-released: "2026-06-29"
