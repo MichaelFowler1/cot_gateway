@@ -1,5 +1,7 @@
 # cot_gateway
 
+[![tests](https://github.com/MichaelFowler1/cot_gateway/actions/workflows/tests.yml/badge.svg)](https://github.com/MichaelFowler1/cot_gateway/actions/workflows/tests.yml)
+
 A sensor-to-COP gateway that converts object-detection tracks into
 [Cursor-on-Target (CoT)](https://www.mitre.org/sites/default/files/pdf/09_4937.pdf)
 events and publishes them to a TAK server (FreeTAKServer, TAK Server, etc.) in
