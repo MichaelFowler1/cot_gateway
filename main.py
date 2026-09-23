@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """Entry point: wire pytak's CLITool to our workers and run the event loop."""
 
 import asyncio

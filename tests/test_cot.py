@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """Pin the two guarantees cot.py documents as the ones "most likely to be
 subtly wrong": stable UIDs (one icon per track, updated in place) and correct
 stale times (dead tracks drop off the map)."""

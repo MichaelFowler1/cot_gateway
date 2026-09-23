@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """Offline sanity check: build a CoT event and assert it's well-formed,
 without needing a TAK server. Run with `python -m cot_gateway.selfcheck`.
 """

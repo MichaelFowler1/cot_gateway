@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """Map a detection's class_name + confidence to a CoT affiliation/type.
 
 CoT 'type' encodes affiliation as the second atom: a-f-* friendly,

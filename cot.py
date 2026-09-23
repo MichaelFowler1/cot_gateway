@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """CoT event construction. The two things most likely to be subtly wrong —
 a *stable* UID per track (so one icon updates in place instead of leaving a
 trail of duplicates) and a correct *stale* time (so dead tracks drop off the

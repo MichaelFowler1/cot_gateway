@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """The affiliation policy is a rules-of-engagement decision: below the
 confidence floor the gateway must refuse to assert friend/hostile. These
 tests make that refusal explicit and enforced."""

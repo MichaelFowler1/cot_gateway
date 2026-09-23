@@ -1,3 +1,6 @@
+# Copyright 2026 Michael Fowler
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 """Tuning constants for the gateway. Most are env-overridable so the same
 build runs against a local FreeTAKServer or a different TAK endpoint."""
 
